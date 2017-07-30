@@ -10,7 +10,7 @@ bold=$(tput bold)
 
 normal=$(tput sgr0)
 
-
+echo "testing123"
 
 ####################################### VERIFICATION ######################################
 
